@@ -1,0 +1,39 @@
+body {
+    background-color: gainsboro;
+}
+
+.main-container {
+    padding-top: 7%;
+}
+
+.inner-container {
+    width: 60%;
+}
+
+.sub-header {
+    padding-top: 5%;
+}
+
+.button-wrapper {
+    padding-left: 20%;
+    padding-top: 20px;
+}
+
+.hidden {
+    display: none;
+}
+
+.content-right {
+    padding-top: 80px;
+}
+
+.text-status {
+    text-align: left;
+    color: #696caf;
+}
+
+.start-time {
+    text-align: right;
+    font-size: 16px;
+    color: #95b195;
+}
